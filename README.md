@@ -15,12 +15,10 @@ Namaste, my name is Deepesh Dhakal. I love to code and it's brought me to this b
 
 
 
-**Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
+**Here's what I can do**
+- Develop the web.
+- Command the terminal.
+- Build public relationship.
 
 
 
