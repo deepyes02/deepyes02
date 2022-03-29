@@ -6,7 +6,7 @@
 
 
 <a href="https://www.linkedin.com/in/deepyes02/">
-<img align="left" alt="Deepesh Dhakal" style="filter: brightness(0), invert(1);" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Deepesh Dhakal" style="filter: brightness(0), invert(1);" width="22px" src="linkedin.svg" />
 </a>
 <br />
 **Here's what I'm doing at the moment**
