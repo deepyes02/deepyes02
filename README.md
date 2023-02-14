@@ -9,8 +9,8 @@
 <img align="left" alt="Deepesh Dhakal" width="22px" src="linkedin.svg" />
 </a>
 <br />
-**Here's what I'm doing at the moment**
-- Developing the web.
-- Maintaining Development and Production Servers.
-- Building public relationship.
-- Learning new skills
+## Here's what I'm doing at the moment ##
+1. Developing the web.
+2. Maintaining Development and Production Servers.
+3. Building public relationship.
+4. Learning new skills
