@@ -5,7 +5,7 @@
 Fishing for great repos  
 
 ## CODING JOURNEY ##
-| Date | Activity |
-| ------ | ---- |
+| Profiles | Links |
+| LinkedIn | https://www.linkedin.com/in/deepyes02 |
 
 
